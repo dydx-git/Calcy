@@ -1,0 +1,2 @@
+all trigs ans = deg
+all inv trigs ans = rad

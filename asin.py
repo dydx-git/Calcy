@@ -9,7 +9,7 @@ def ASin(param1,param2,param3):
                 param1=math.asin(float(param2))
                 param1=math.degrees(param1)
         else:
-            if param3 == False:
+            if param3 != True:
                 param1=math.asin(float(param1))
             elif param3==True:
                 param1=math.asin(float(param1))
